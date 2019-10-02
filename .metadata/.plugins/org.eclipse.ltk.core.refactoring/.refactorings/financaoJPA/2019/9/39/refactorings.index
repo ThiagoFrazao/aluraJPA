@@ -1,1 +1,6 @@
 1569598255576	Rename package 'financaoJPA.modelos'
+1569605622778	Copy compilation unit
+1569605626922	Delete element
+1569609413983	Encapsulate field 'conta'
+1569612824615	Rename type 'ContasFactorys'
+1569612836157	Rename package 'financao.jpa.factorys'
